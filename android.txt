@@ -1,0 +1,3 @@
+title=Simple Application
+author=blackcoder
+orientation=portrait
